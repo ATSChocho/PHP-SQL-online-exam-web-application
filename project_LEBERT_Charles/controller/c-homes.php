@@ -1,0 +1,3 @@
+<?php
+$etat="homes";
+?>
